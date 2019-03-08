@@ -1,1 +1,1 @@
-This folder contains images could serve as inputs.
+This folder contains images which could serve as inputs.
